@@ -7,7 +7,7 @@
 </a>
   <a target="_blank" href="mailto:lucassouza0807@gmail.com">
   <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
+</a style="background-color:blue">
   <br>
 </a>
 <h2> Linguagens e frameworks </h1>
