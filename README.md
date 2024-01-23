@@ -1,6 +1,6 @@
 <h2 style="color:green">LUCAS</h2>
-<h4> Full Stack Developer Senior</h4>
-<h2> Minhas stacks </h1>
+<h4>Full Stack Developer</h4>
+<h2>Minhas Stacks</h1>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
